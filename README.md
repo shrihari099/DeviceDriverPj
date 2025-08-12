@@ -1,8 +1,4 @@
 # DeviceDriverPj
-Got it ✅ — I’ll update the **README.md** for your Raspberry Pi 4 / UART-compatible **simple Linux character driver** project, including GPL license info and making it look professional for your GitHub repo.  
-
-Here’s the improved **README.md**:
-
 ***
 
 # Simple Linux Character Driver
